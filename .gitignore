@@ -1,0 +1,7 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+/build-mac/build
+/build-mac/checkouts
+/build-mac/workdir
